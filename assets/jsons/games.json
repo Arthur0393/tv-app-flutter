@@ -1,0 +1,28 @@
+{
+    "games": [
+        {
+            "url": "https://www.youtube.com/watch?v=GUC03gon_zE",
+            "title": "La historia de Xbox Parte 1",
+            "mini": "assets/images/xbox1.png",
+            "duration": "17:32",
+            "date": "11/08/2021",
+            "description": "El humilde resumen de un servidor sobre una de sus consolas favoritas"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=nTyk2Hngugw",
+            "title": "El lord de los crossovers",
+            "mini": "assets/images/fortnite.png",
+            "date": "19/11/2018",
+            "duration": "11:33",
+            "description": "Este mi humilde opinion de este hermoso titulo"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=Itn5DpivHG4",
+            "title": "Quejas preguntas y mas con Age Of Mythology",
+            "mini": "assets/images/quejasAOM.png",
+            "duration": "11:28",
+            "date": "14/12/2021",
+            "description": "Un pequeño video de lo bueno, lo malo y lo sensual del Age of Mythology 7w7/"
+        }
+    ]
+}
